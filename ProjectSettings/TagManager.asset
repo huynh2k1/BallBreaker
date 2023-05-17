@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Brick
+  - Ground
+  - Ball
+  - Wall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Wall
+  - Ball
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1750864963
+    locked: 0
+  - name: Map
+    uniqueID: 3752424937
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Cell
+    uniqueID: 2596440285
+    locked: 0
+  - name: Ball
+    uniqueID: 407530377
+    locked: 0
+  - name: Wall
+    uniqueID: 2272834811
+    locked: 0
+  - name: UI
+    uniqueID: 4100074225
+    locked: 0
